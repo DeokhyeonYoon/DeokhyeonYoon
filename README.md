@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yoon Github!&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=slice)
 
 - 👋 Hi, I’m @DeokhyeonYoon
 - 👀 I’m interested in Drug Discovery by AI
