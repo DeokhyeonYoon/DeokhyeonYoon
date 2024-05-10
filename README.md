@@ -18,16 +18,6 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
-<div align=center>
-</div>
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeokhyeonYoon&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=DeokhyeonYoon&show_icons=true">
-
-![Yoon's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=DeokhyeonYoon)
-
-<br>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 - 👋 Hi, I’m @DeokhyeonYoon
