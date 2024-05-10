@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yoon Github!&fontSize=90"
 
+<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
+
 - 👋 Hi, I’m @DeokhyeonYoon
 - 👀 I’m interested in Drug Discovery by AI
 - 🌱 I’m currently learning Deep & Machin learning(GNN, BERT, ...), cheminformatics and bioinformatics
